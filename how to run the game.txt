@@ -1,0 +1,7 @@
+Download all the things in one folder
+open the folder in vs code
+open terminal write:
+  pip install pygame (only if pygame is not installed)
+  python runner.py
+
+Enjoy!
